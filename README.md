@@ -16,3 +16,6 @@ Problem: A local grocery chain has recently launched a customer loyalty program.
 4) Survey data analysis:
 Problem: An online retailer conducts exit surveys on an ongoing basis. They do not use the data but are interested in increasing customer profitability and matching specific offers to customers based on observed behavior. I would build a segmentation and predictive model to increase response rate for specific offers and customers. The data would come from the client survey database.
 
+5) Is my outfit pretty?:
+Problem: A startup is developing a predictive model to analyze images of clothing and recommending outfits based on taste, weather and calendar. The data will be provided by the startup collected from users of an app developed by the client.
+
